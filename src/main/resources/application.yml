@@ -8,3 +8,7 @@ spring:
   sql:
     init:
       mode: always
+  security:
+    user:
+      name: ${SPRING_USER_NAME}
+      password: ${SPRING_USER_NAME}
