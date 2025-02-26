@@ -11,4 +11,4 @@ spring:
   security:
     user:
       name: ${SPRING_USER_NAME}
-      password: ${SPRING_USER_NAME}
+      password: ${SPRING_USER_PASSWORD}
