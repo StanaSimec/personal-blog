@@ -17,5 +17,5 @@ cd personal-blog
 .gradlew/ bootRun
 ```
 
-## How to use unit converter
+## How to open
 Open browser on localhost:8080
